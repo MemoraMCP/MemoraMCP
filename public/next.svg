@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>next-black</title>
+    <defs>
+        <linearGradient x1="28.1542969%" y1="63.7402344%" x2="74.6289062%" y2="17.7832031%" id="linearGradient-1">
+            <stop stop-color="rgba(11, 174, 216, 0.6)" offset="0%"></stop>
+            <stop stop-color="#0070F3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black-Next.js" transform="translate(0.000000, 0.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M180,89.9686962 C180,139.608349 139.608349,180 89.9686962,180 C40.3290429,180 0,139.608349 0,89.9686962 C0,40.3290429 40.3290429,0 89.9686962,0 C139.608349,0 180,40.3290429 180,89.9686962 Z M104.802115,127.708646 L139.935729,75.2631872 L139.935729,127.708646 L156.451312,127.708646 L156.451312,52.2903371 L138.92162,52.2903371 L103.795082,104.728639 L103.795082,52.2903371 L87.2724995,52.2903371 L87.2724995,127.708646 L104.802115,127.708646 Z M41.5459244,127.708646 L58.0615075,127.708646 L58.0615075,52.2903371 L41.5459244,52.2903371 L41.5459244,127.708646 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
